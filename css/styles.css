@@ -14,6 +14,19 @@ a {
   color: black
 }
 
+.intro .pictureCol {
+  float: left;
+  width: 33%;
+}
+
+
+.intro .pictureCol img {
+  display: block;
+  object-fit: fill;
+}
+
+
+
 .pictureCol img {
   
   height: 220px;
