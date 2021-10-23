@@ -1,4 +1,13 @@
 
+h1 {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h2 {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
 body {
   background-color: red;
   color: rgb(201, 188, 188);
@@ -42,4 +51,7 @@ a {
   object-fit: fill;
 }
 
-
+.name {
+  color:rgb(11, 218, 39);
+  font-weight: bold;
+}
